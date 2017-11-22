@@ -1,6 +1,8 @@
-- Student PHP Project -
+= Student PHP Project =
 
 Simple pages with session, database access, display of shortened links users, incrementation of click on a shortened link
+
+
 
 - register.php		(simple registering + send of activation email)
 - activation.php	(simple activation of user account)
